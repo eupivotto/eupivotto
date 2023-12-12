@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Lucas Pivotto</h1>
-<h3 align="center">I am a technology enthusiast and am always looking to learn new skills and improve my knowledge. I'm excited about being able to work on more technical projects and be able to bring my skills to the table.</h3>
+<h3 align="center">Olá! Sou um Designer com mais de 10 anos de experiência e Desenvolvedor Front-End apaixonado por criar experiências digitais inovadoras e envolventes. O meu percurso profissional permitiu-me desenvolver uma compreensão profunda da união entre o design estético e a funcionalidade técnica.
+</h3>
 
-- 💡 I’m currently working on **Digital Designer serving some companies from various sectors.**
+- 💡 Trabalhando como **Digital Designer para vvárias empresas como freelancer.**
 
-- 💻 I'm currently studying **Full Stack Developer at Gama academy and taking an intensive English course.**
+- 💻 Cursando **Análise e Desenvolvimento de Sistemas pela Unifatecie** e graduado como **Full Stack Developer pela Gama academy**
 
-- 💬I want to collaborate with **Front-End developments through what I already have in experience.**
+- 💬Tenho colaborado com vários projetos de **Front-End para aumentar minha experiência**
 
-- 🤝 I'm looking for help **with a new job as a developer.**
+- 🤝 Buscando uma vaga **como desenvolvedor Web e Mobile**
 
-- 👨‍💻 All of my projects are available at [https://www.lucaspivotto.com](https://www.lucaspivotto.com)
+- 👨‍💻 Todos meus projetos estão disponíveis em [https://www.lucaspivotto.com](https://www.lucaspivotto.com)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/eupivotto](https://www.linkedin.com/eupivotto)
+- 📝 Regularmente posto meus atigos e aprendizado em [https://www.linkedin.com/eupivotto](https://www.linkedin.com/eupivotto)
 
-- 📫 How to reach me **mail@lucaspivotto.com**
+- 📫 podemos nos contatar pelo email **eulucaspivtto@gmail.com**
 
-- 😁 Fun fact **born researcher in the game of thrones series**
+- 😁  **Pesquisador nato da Série Game of Thrones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
