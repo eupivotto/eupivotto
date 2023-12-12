@@ -14,11 +14,11 @@
 
 - 📝 Regularmente posto meus atigos e aprendizado em [https://www.linkedin.com/eupivotto](https://www.linkedin.com/eupivotto)
 
-- 📫 podemos nos contatar pelo email **eulucaspivtto@gmail.com**
+- 📫 podemos nos contatar pelo email **eulucaspivotto@gmail.com**
 
 - 😁  **Pesquisador nato da Série Game of Thrones**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conect-se comigo:</h3>
 <p align="left">
 <a href="https://codepen.io/eupivotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eupivotto" height="30" width="40" /></a>
 <a href="https://twitter.com/eupivotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eupivotto" height="30" width="40" /></a>
