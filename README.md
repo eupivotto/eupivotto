@@ -26,5 +26,9 @@
 <a href="https://instagram.com/eupivotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eupivotto" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,git,html,css,styledcomponents,sass,bootstrap,wordpress,figma,ps,ae,pr" />
+  </a>
+</p>
