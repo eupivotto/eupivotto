@@ -10,7 +10,7 @@
 
 - 🤝 Buscando uma vaga **como desenvolvedor Web e Mobile**
 
-- 👨‍💻 Todos meus projetos estão disponíveis em [https://www.lucaspivotto.com](https://www.lucaspivotto.com)
+- 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://www.lucaspivotto.com]([https://www.lucaspivotto.com](https://portfolio-lucas-pivotto.vercel.app))
 
 - 📝 Regularmente posto meus atigos e aprendizado em [https://www.linkedin.com/eupivotto](https://www.linkedin.com/eupivotto)
 
