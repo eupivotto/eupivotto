@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lucas Pivotto</h1>
-<h3 align="center">Olá! Sou um Designer com mais de 10 anos de experiência e Desenvolvedor Front-End apaixonado por criar experiências digitais inovadoras e envolventes. O meu percurso profissional permitiu-me desenvolver uma compreensão profunda da união entre o design estético e a funcionalidade técnica.
+<h3 align="center">Olá! Sou um Designer com mais de 10 anos de experiência e Desenvolvedor Full Stack. Hoje atuo como Analista de Sistemas e acredito que encontrei o campo profissional que mais admiro.  O meu percurso profissional permitiu-me desenvolver uma compreensão profunda da união entre o design estético e a funcionalidade técnica.
 </h3>
 
-- 💡 Trabalhando como **Digital Designer para vvárias empresas como freelancer.**
+- 💡 Trabalhando como **Digital Designer para várias empresas como freelancer.**
 
 - 💻 Cursando **Análise e Desenvolvimento de Sistemas pela Unifatecie** e graduado como **Full Stack Developer pela Gama academy**
 
-- 💬Tenho colaborado com vários projetos de **Front-End para aumentar minha experiência**
+- 💬Tenho colaborado com vários projetos **Full Stack para aumentar minha experiência**
 
-- 🤝 Buscando uma vaga **como desenvolvedor Web e Mobile**
+- 🤝 Atuanto profisionanmente **como Analista de Sistemas e DPO pela BSN Tecnologia**
 
 - 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://www.lucaspivotto.com](https://portfolio-lucas-pivotto.vercel.app)
 
@@ -29,6 +29,6 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,git,html,css,styledcomponents,sass,bootstrap,wordpress,figma,ps,ae,pr" />
+    <img src="https://skillicons.dev/icons?i=angular,laravel,docker,nextjs,react,typescript,tailwind,javascript,git,html,css,styledcomponents,sass,bootstrap,wordpress,figma,ps,ae,pr" />
   </a>
 </p>
