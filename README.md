@@ -2,17 +2,11 @@
 <h3 align="center">Olá! Sou um Designer com mais de 10 anos de experiência e Desenvolvedor Full Stack. Hoje atuo como Analista de Sistemas e acredito que encontrei o campo profissional que mais admiro.  O meu percurso profissional permitiu-me desenvolver uma compreensão profunda da união entre o design estético e a funcionalidade técnica.
 </h3>
 
-- 💡 Trabalhando como **Digital Designer para várias empresas como freelancer.**
-
 - 💻 Cursando **Análise e Desenvolvimento de Sistemas pela Unifatecie** e graduado como **Full Stack Developer pela Gama academy**
 
 - 💬Tenho colaborado com vários projetos **Full Stack para aumentar minha experiência**
 
 - 🤝 Atuanto profisionanmente **como Analista de Sistemas e DPO pela BSN Tecnologia**
-
-- 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://www.lucaspivotto.com](https://portfolio-lucas-pivotto.vercel.app)
-
-- 📝 Regularmente posto meus atigos e aprendizado em [https://www.linkedin.com/eupivotto](https://www.linkedin.com/eupivotto)
 
 - 📫 podemos nos contatar pelo email **eulucaspivotto@gmail.com**
 
